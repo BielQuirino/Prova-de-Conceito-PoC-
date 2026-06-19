@@ -1,5 +1,5 @@
 # Lexi Webhook PoC
-PoC de um serviço de webhook não-bloqueante para a Lexi, agente de negociação da Arbitralis.
+PoC de um serviço de webhook não-bloqueante para a Lexi, agente de negociação da Arbitralis. 
 ## Tecnologias
 - **Node.js** v20+
 - **TypeScript** 5.3
